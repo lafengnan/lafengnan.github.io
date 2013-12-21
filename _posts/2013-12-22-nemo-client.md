@@ -1,4 +1,11 @@
-# 关于Nemo
+---
+layout: page
+title: "Nemo Client"
+description: "因为在公司一个同名的项目中打酱油，于是萌生了开发一个OpenStack/Swift的iOS客户端的想法。前两天又重拾iOS开始捣鼓这玩意，期望是做成一个和iOS版Dropbox类似的客户端"
+category: "Blog"
+tags: [ ]
+---
+{% include JB/setup %}
 
 因为在公司一个同名的项目中打酱油，于是萌生了开发一个OpenStack/Swift的iOS客户端的想法。前两天又重拾iOS开始捣鼓这玩意，期望是做成一个和iOS版Dropbox类似的客户端。
 
@@ -18,3 +25,4 @@ Dropbox和IFTTT的集成可以有很多同步应用，下面引述了一段[十�
 [1]:(http://lanielstudio.net/?p=1722)
 [2]:(http://www.openstack.org)
 [3]:(http://docs.openstack.org/api/openstack-object-storage/1.0/content/)
+
