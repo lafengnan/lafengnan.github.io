@@ -22,7 +22,7 @@ Dropbox和IFTTT的集成可以有很多同步应用，下面引述了一段[十�
 [Swift API][3]  
 
 
-[1]:(http://lanielstudio.net/?p=1722)
-[2]:(http://www.openstack.org)
-[3]:(http://docs.openstack.org/api/openstack-object-storage/1.0/content/)
+[1]:http://lanielstudio.net/?p=1722 "Dropbox"
+[2]:http://www.openstack.org "OpenStack"
+[3]:http://docs.openstack.org/api/openstack-object-storage/1.0/content/ "Swift API"
 
